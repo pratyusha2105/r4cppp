@@ -69,23 +69,6 @@ catered for.
   in Rust
 
 
-## Contributing
-
-Yes please!
-
-If you spot a typo or mistake, please submit a PR, don't be shy! Please feel
-free to file [an issue](https://github.com/nrc/r4cppp/issues/new) for
-larger changes or for new chapters you'd like to see. I'd also be happy to see
-re-organisation of existing work or expanded examples, if you feel the tutorial
-could be improved in those ways.
-
-If you'd like to contribute a paragraph, section, or chapter please do! If you
-want ideas for things to cover, see the [list of issues](https://github.com/nrc/r4cppp/issues),
-in particular those tagged [new material](https://github.com/nrc/r4cppp/labels/new%20material).
-If you're not sure of something, please get in touch by pinging me here
-(@nrc) or on irc (nrc, on #rust or #rust-internals).
-
-
 ### Style
 
 Obviously, the intended audience is C++ programmers. The tutorial should
