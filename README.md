@@ -23,8 +23,7 @@ complicated type annotations. But if you have a strong idea of lifetimes for
 your objects and experience with generic programming, they shouldn't be too
 tough to learn.
 
-This tutorial started as a [series of blog posts](http://featherweightmusings.blogspot.co.nz/search/label/rust-for-c).
-Partly as an aid for me (@nrc) learning Rust (there is no better way to
+learning Rust (there is no better way to 
 check that you have learnt something than to try and explain it to somebody
 else) and partly because I found the existing resources for learning Rust
 unsatisfactory - they spent too much time on the basics that I already knew and
